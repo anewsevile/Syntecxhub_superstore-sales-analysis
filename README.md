@@ -40,7 +40,8 @@ through an interactive dashboard.
 ---
 
 ## 📁 Project Structure
-sales-dashboard/
+
+Syntecxhub_superstore-sales-analysis/
 │
 ├── data/
 │   └── train.csv
@@ -55,7 +56,7 @@ sales-dashboard/
 1. Install [Tableau Public](https://public.tableau.com) (free)
 2. Clone this repository
 ```bash
-git clone git@github.com:YourUsername/Syntecxhub_superstore-sales-ananlysis.git
+git clone git@github.com:anewsevile/Syntecxhub_superstore-sales-ananlysis.git
 ```
 3. Open `dashboard/sales_dashboard.twbx` in Tableau
 
