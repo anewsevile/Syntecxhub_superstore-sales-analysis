@@ -1,7 +1,8 @@
 # 📊 Sales Analytics Dashboard
 ### Syntecxhub Data Analyst Internship — Week 1 Project
 
-![Dashboard Preview](C:\syntecxhub\dashboard_preview.png" />
+![Dashboard Preview](<img width="1596" height="931" alt="dashboard_preview" src="https://github.com/user-attachments/assets/7575af68-ddcf-4ed3-a26e-37aeef8b0245" />
+ />
 )
 
 ---
